@@ -1,0 +1,87 @@
+
+body{
+    background-image: url( 'https://img.freepik.com/premium-vector/purple-web-development-background_76964-167.jpg?w=2000 ' );
+}
+.mb-3 < img{
+    width: 1600;
+    height: 500;
+}
+.hero {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	color: rgb(0, 0, 0);
+	padding: 4rem;
+	
+}
+.post-it{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    padding: 4rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.footer-menu {
+	display: flex;
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding: 2rem 4rem;
+	line-height: 20%;
+	
+}
+.icons .img-resize {
+	height: 50px;
+	margin-top: 2em;
+}
+
+
+@media all and (max-width:900px) {
+	
+
+	.footer-menu {
+		display: flex;
+		/* flex-direction: column; */
+		background-color: #ffffff;
+		color: rgb(0, 0, 0);
+		line-height: 20%;
+		flex-wrap: wrap;
+	
+	}
+	.icons .img-resize {
+		display: none;
+		}
+		.footer-line{
+			display:none;
+		}
+
+	}
+
+	@media all and (max-width:500px) {
+	
+		.footer-menu {
+			display: flex;
+			flex-direction: column;
+			background-color: #ffffff;
+			color: rgb(0, 0, 0);
+			line-height: 20%;
+			flex-wrap: wrap;
+			align-items: center;
+		}
+		.icons .img-resize {
+			display: none;
+			}
+			.footer-line{
+				display:none;
+			}
+	
+	}
+
+

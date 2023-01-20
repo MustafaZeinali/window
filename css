@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>future window</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+     rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="/project.css">
+</head>
+<body >
+    
+    <header> 
+     <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="future window.html">Boka</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Kontakt</a>
+              </li>
+         
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </section>
+    <section class="hero">
+        <h2>VÄLKOMMEN TILL</h2>
+        <h1>BÄTTRE WEBB</h1>
+        <h1>Future window</h1>
+    </section>
+
+    </header> 
+    
+    <main>
+
+      
+<section class="post-it">
+    <article class="post-it__intro" >
+    <h3> Bättre Webbs konferens tar plats i Karlstad </h3>
+    <div class="date">
+        <strong> 
+            <span>9/12</span> 
+            <span>10/12</span>
+            <span>11/12</span> 
+        </strong>
+     <div>10 seminarium som kommer att hållas i Karlstad och experter inom olika områderna till exempell game, UX/UI och andra programmering
+         språk. Missa inte den här seminarena som gäller för du som inte kan inget språket och villa ha tips och vilken väg ska tas eller
+          du som är proffs i denna branchen.  ta första steg till webb utvecklare med denna konferens. 
+        
+        </div>
+        
+    </div>
+</article>
+</section>  
+
+        <div>
+
+        </div>
+
+      <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col">
+          <div class="card">
+            <img src="https://churchillsquareconsulting.com/wp-content/uploads/2018/09/conf-768x512.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Fredag 9/12</h5>
+              <h5>10:00-16:00</h5><br>
+              <h5 class="card-text"> börjar med Alex Andersson och Hannah Malmqvist om hur vi reste genom webb och Tecknologi under senaste 20 år.
+                 och vi har David Cooper som föreläser om data science och AI.
+                
+              </h5>
+              <details>
+    
+                <summary>Mer info</summary>
+    
+                             <hr>
+                             <div>
+                                <p>10:00 - 11:00</p>
+                                <p>
+                                    Alex Andersson - var vi är i världen webb och Tecknologi, en Battlefield för webb browser och utvecklarna </p>
+                            </div>
+                            <hr>
+                            <div>
+                                <p>11:00 - 12:00</p>
+                                <p> Hannah Malmqvist - hur kan vi utvecklas bättre i webbvälrden  </p>
+                            </div>
+                            <hr>
+                            <div>
+                                <p>12:00 - 13:00 </p>
+                                <p>Lunch/Rast - i kaffeterian ni som har besällt. då Serveras mat för er </p>
+                            </div>
+                            <hr>
+                            <div>
+                                <p>13:00 - 15:00</p>
+                                <p> David Cooper - vad gör AI i webb och sökmotor </p>
+                             </div>
+                            <hr><br>
+                
+              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29uZmVyZW5jZXxlbnwwfHwwfHw%3D&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h4 class="card-title">Lördag 9/12</h4>
+                <h5>09:00-16:00</h5><br>
+                <h5 class="card-text"> Jim lee och Jacob Fall en av de bäst It-företag och webb i världen kommer föreläsa om hur vi anänder att hitta våran ambitös i våran arbete.
+                  sedan har vi Sara Pahlin och Ali Samen som tar över eftermidag föreläsning med game och webb och ux/ui.
+                </h5>
+                <details>
+      
+                  <summary>Mer info</summary>
+      
+                
+                 <hr>
+                              <div>
+                                  <p>09:00 - 10:00</p>
+                                  <p>
+                                      Jim lee- vad behöverr en webb för att funderar bättre  </p>
+                              </div>
+                              <hr>
+                              <div>
+                                  <p>10:00 - 12:00</p>
+                                  <p> Jacob Fall - hur kan du ha en bättre UX/UI och vad är fördel/nackdel för eran företag.  </p>
+                              </div>
+                              <hr>
+                              <div>
+                                  <p>12:00 - 13:00 </p>
+                                  <p>Lunch/Rast - i kaffeterian ni som har besällt. då Serveras mat för er </p>
+                              </div>
+                              <hr>
+                              <div>
+                                  <p>13:00 - 14:00</p>
+                                  <p> Sara Pahlin - Ruby och flutter </p>
+                              </div>
+                              <div>
+                                <p>14:00 - 16:00 </p>
+                                <p> Ali Samen - game och den världen av game i nutiden </p>
+                              </div>
+                              <hr>
+             
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <img src="https://images.unsplash.com/photo-1626125345510-4603468eedfb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvbmZlcmVuY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Söndag 9/12</h5>
+              <h5>10:00-16:00</h5><br>
+                <h5 class="card-text"> I slutet av eventet kommer at vi ha Kunniga och erfarna personer som Thomas Mcklin för C++ och Takemishi Hakai 
+                    för Python. 
+                    och Zahra Jacksson föreläser om hur en idé kan omvandlar till verkligheten.  
+                </h5>
+                <details>
+      
+                  <summary>Mer info</summary>
+      
+                
+                 <hr>
+                              <div>
+                                  <p>10:00 - 11:00</p>
+                                  <p>
+                                      Thomas Mcklin - C++ och game </p>
+                              </div>
+                              <hr>
+                              <div>
+                                  <p>11:00 - 12:00</p>
+                                  <p> Takemishi Hakai - Python och AI  </p>
+                              </div>
+                              <hr>
+                              <div>
+                                  <p>12:00 - 13:00 </p>
+                                  <p>Lunch/Rast - i kaffeterian ni som har besällt. då Serveras mat för er </p>
+                              </div>
+                              <hr>
+                              <div>
+                                  <p>13:00 - 15:00</p>
+                                  <p> Zahra Jacksson - hur en idé kan påverkas webb och it. </p>
+                              </div>
+                              <div>
+                                
+                              
+        
+                              <hr>
+            
+            </div>
+          </div>
+        </div>
+ </div> 
+ <div class="card" style="width: 18rem;">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item"> Här kan du välja</li>
+      <li class="list-group-item">dag pass <a href="future window">kilcka här</a></li>
+      <li class="list-group-item">Hela pass <a href="future window.html">kilcka här</a> </li>
+    </ul>
+  </div><br> <br> <br>
+
+    </main> 
+    <footer class="footer-container">
+				
+        <div class="footer-menu">
+            <article class="footer-menu__field">
+            <h4><strong>Öppettider</strong></h4>
+                    <p>Mån - fre: 10.00 - 18.00</p>
+                    <p>Lör: 11:00 - 15:00</p>
+                    <p>Söndag:Stängt!<p>					
+             </article>
+         
+             <article class="footer-menu__field">
+                   <hr class="footer-line">
+               
+             </article>
+         
+             <article class="footer-menu__field">
+                <h4> <strong>Kontakta Oss</strong></h4>
+                <p>emiljon@gamil.com</p>
+                <p>010 - 742 36 66</p>
+                <p>Drottningatan 49</p>
+             </article>
+        </div>
+
+    
+
+
+    </footer>
+
+</body>
+</html>
